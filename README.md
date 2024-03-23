@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @octuaOSdev
 - 👀 I’m interested in OS development
 - 🌱 I’m currently learning assembly,python
-- 💞️ I’m looking to collaborate on assembly
+- 💞️ I’m looking to collaborate on my OS project
 - 📫 How to reach me steam,github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i  unicode
