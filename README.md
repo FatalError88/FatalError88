@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @octuaOSdev
+- 👋 Hi, I’m @FatalError88
 - 👀 I’m interested in OS development
 - 🌱 I’m currently learning assembly,python
 - 💞️ I’m looking to collaborate on my OS project
