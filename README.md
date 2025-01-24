@@ -2,7 +2,7 @@
 - 👀 I’m interested in OS development
 - 🌱 I’m currently learning assembly,python
 - 💞️ I’m looking to collaborate on my OS project
-- 📫 How to reach me steam,github
+- 📫 How to reach me steam,github, Matrix
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i  unicode
 
