@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @FatalError88
-- 👀 I’m interested in OS development
-- 🌱 I’m currently learning assembly,python
-- 💞️ I’m looking to collaborate on my OS project
-- 📫 How to reach me steam,github, Matrix
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i  unicode
-
+[ Heya ]
+[ I see you have found my Profile... ]
+[ Well... i suppose i should give you a tour then ]
 <!---
 octuaOSdev/octuaOSdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
